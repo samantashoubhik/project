@@ -1,0 +1,29 @@
+.container {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.login {
+  text-align: center;
+  width: 66%;
+  margin: 0 auto;
+  background: whitesmoke;
+  border-radius: 10px;
+  padding: 30px 70px 70px 70px;
+  margin-top: 60px;
+}
+.login h1 {
+  padding-bottom: 40px;
+}
+label {
+  text-align: left;
+}
+
+.ui.input {
+  font-size: 1em;
+  width: 100%;
+}
+.ui.form {
+  font-size: 1rem;
+  width: 100%;
+}
